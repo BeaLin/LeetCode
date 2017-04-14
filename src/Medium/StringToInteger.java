@@ -2,6 +2,7 @@ package Medium;
 
 /**
  * Created by lby on 2017/4/11.
+ * 8.String To Integer
  */
 public class StringToInteger {
     public static int myAtoi(String str){

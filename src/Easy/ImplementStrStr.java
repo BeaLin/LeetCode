@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by lby on 2017/4/13.
+ * 28.Implement strStr
  */
 public class ImplementStrStr {
     public int strStr(String haystack, String needle) {

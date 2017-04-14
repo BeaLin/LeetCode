@@ -4,6 +4,7 @@ import java.util.Stack;
 
 /**
  * Created by lby on 2017/4/13.
+ * 20.Valid Parenthese
  */
 public class ValidParentheses {
     public boolean isValid(String s){

@@ -7,6 +7,7 @@ import java.util.List;
 
 /**
  * Created by lby on 2017/4/13.
+ * 56.Merge Intervals
  */
 class Interval{
     int start;

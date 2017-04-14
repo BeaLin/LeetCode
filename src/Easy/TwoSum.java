@@ -1,10 +1,11 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
+package Easy;
+
 import java.util.HashMap;
 import java.util.Map;
 
 /**
  * Created by lby on 2017/4/11.
+ * 1.Two Sum
  */
 public class TwoSum {
     //method1
