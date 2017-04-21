@@ -6,6 +6,10 @@ package Easy;
  */
 public class SqrtX {
     public int mySqrt(int x) {
-        return (int)Math.sqrt((long)(x));
+        long r=x;
+        while(r*r>x){
+            r=(r+x/r)/2;
+        }
+        return (int)(r);
     }
 }
